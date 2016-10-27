@@ -16,17 +16,17 @@ CCircleObj::CCircleObj()
 	space = 15; // 矩形间隔
 	widthSpace = 65; // 矩形左右间距
 	addItem(10, L"测试文本");
-	addItem(20, L"测试文本");
-	addItem(40, L"测试文本");
-	addItem(60, L"测试文本");
-	addItem(120, L"测试文本");
-	addItem(110, L"测试文本");
-	addItem(100, L"测试文本");
-	addItem(200, L"测试文本");
-	addItem(50, L"测试文本");
-	addItem(70, L"测试文本");
-	addItem(300, L"测试文本");
-	addItem(12, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
+	addItem(10, L"测试文本");
 }
 
 
